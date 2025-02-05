@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "isActive": true,
+      "id": "1",
+      "name": "Niel",
+      "username": "LeNiel",
+      "email": "leniel@gmail.com",
+      "phone": "+237 656462080",
+      "website": "http://www.decodev.com"
+    },
+    {
+      "id": "2",
+      "isActive": true,
+      "name": "Dani",
+      "username": "dani",
+      "email": "dani@gmail.com",
+      "phone": "+237 656462080",
+      "website": "http://www.decodev.com"
+    },
+    {
+      "id": "3",
+      "name": "Deco",
+      "username": "LeDeco",
+      "email": "tiakocedrickdeco@gmail.com",
+      "phone": "+237 656462080",
+      "website": "http://www.decodev.com",
+      "isActive": true
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "React Admin Tutoriallllllll",
+      "authorId": 1,
+      "publishedAt": "2024-01-02",
+      "status": "Published"
+    },
+    {
+      "id": "2",
+      "title": "Learning JSON Server",
+      "authorId": 2,
+      "publishedAt": "2024-02-15",
+      "status": "Draft"
+    },
+    {
+      "id": "3",
+      "title": "ReactJS",
+      "authorId": 3,
+      "publishedAt": "2025-02-03",
+      "status": "Draft"
+    },
+    {
+      "id": "4",
+      "title": "React Admin Tutoriallllllll",
+      "authorId": 1,
+      "publishedAt": "2024-01-02",
+      "status": "Published"
+    },
+    {
+      "id": "5",
+      "title": "React Admin Tutoriallllllll",
+      "authorId": 1,
+      "publishedAt": "2024-01-02",
+      "status": "Published"
+    },
+    {
+      "id": "6",
+      "title": "React Admin Tutoriallllllll",
+      "authorId": 1,
+      "publishedAt": "2024-01-02",
+      "status": "Published"
+    }
+  ]
+}
