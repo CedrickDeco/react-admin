@@ -1,10 +1,9 @@
 # React + TypeScript + Vite
 
 # Dashboard Admin
+This project is an administration dashboard built with React, React-Admin and Recharts.
 
-Ce projet est un tableau de bord d'administration construit avec React, React-Admin et Recharts.
-
-## Fonctionnalités :
+## Features :
 - Create a React Admin application using the React Admin framework.
 - Customize the default List view for posts.
 - Customize the default theme of the React Admin application.
