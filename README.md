@@ -13,6 +13,13 @@ This project is an administration dashboard built with React, React-Admin and Re
 
 
 ## Installation
-1. Clonez le dépôt :
+1. Clone repository :
+- https://github.com/CedrickDeco/react-admin.git
+- cd react-admin
+2. Install all libraries used in the project :
+  - npm install
+3. Launch the application
+  - Launch the server: npm run server
+  - Launch react: npm run dev
 
-```
+NB: it would be preferable to have at least version 20 of node.
