@@ -17,9 +17,10 @@ This project is an administration dashboard built with React, React-Admin and Re
 - https://github.com/CedrickDeco/react-admin.git
 - cd react-admin
 2. Install all libraries used in the project :
+  - Open the a terminal in the IDE and type the following comand
   - npm install
 3. Launch the application
-  - Launch the server: npm run server
-  - Launch react: npm run dev
+  - Open a second terminal: Launch the server by typing: npm run server
+  - Open the third terminal: Launch react by typing: npm run dev
 
 NB: it would be preferable to have at least version 20 of node.
